@@ -11,7 +11,7 @@ A real-time stock screening and analysis dashboard for all **NIFTY 50** stocks b
 
 ## 🖥️ Live Demo
 
-> 🔗 [Add your Streamlit Cloud / Vercel link here]
+> 🔗https://stockmarket-nifty50-analysis.streamlit.app/
 
 ---
 
@@ -146,4 +146,4 @@ plotly
 ## 👨‍💻 Author
 
 **Harsh Agrawal**
-[GitHub](https://github.com/HarshCode05) · [LinkedIn](https://linkedin.com/in/harshagrawal050903/) · [Email](mailto:harshagrawal050903@gmail.com)
+[GitHub](https://github.com/HarshCode05) ·[Email](mailto:harshagrawal050903@gmail.com)
